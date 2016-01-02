@@ -1,2 +1,4 @@
 # r-mk-sticker
-/r/mk Keyboard Logo
+Small /r/mk Sticker I built during 32C3.
+
+Enjoy. :)
